@@ -4,7 +4,7 @@ A java site mirrorer built in my spare time
 ## How to use
 Currently only available in a command-line enviornment.
 
-rget <remote file/page> <local directory>
+rget (remote file/page) (local directory)
 
 If you are using the .exe file, simply type the executable name to run it. If not, you may use the built in java command if you have Java installed.
 

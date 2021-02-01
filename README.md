@@ -13,3 +13,5 @@ If you are using the .exe file, simply type the executable name to run it. If no
 Note that it will mirror the site where you specify where to put it. For example:
 Pointing the command towards C:\somefolder will take the URL (eg. cardboardstorage.online/downloads/examplefile.zip) and create directories based on the URL.
 C:\somefolder turns into C:\somefolder\downloads\examplefile.zip
+
+For downloading entire pages, it will instead put a file named `download.html` without any CSS.
